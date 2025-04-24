@@ -1,0 +1,1001 @@
+Age,Income,Student,Credit_Rating,Buys_Computer
+Tua,Tinggi,Ya,Buruk,0
+Paruh Baya,Tinggi,Ya,Baik,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Tua,Rendah,Tidak,Baik,1
+Tua,Rendah,Ya,Baik,1
+Muda,Rendah,Tidak,Buruk,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Tua,Sedang,Tidak,Baik,1
+Muda,Tinggi,Ya,Baik,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Muda,Tinggi,Tidak,Buruk,0
+Paruh Baya,Rendah,Ya,Buruk,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Muda,Tinggi,Ya,Baik,1
+Tua,Tinggi,Tidak,Baik,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Muda,Rendah,Tidak,Buruk,0
+Tua,Sedang,Tidak,Buruk,1
+Tua,Rendah,Tidak,Buruk,1
+Muda,Tinggi,Ya,Buruk,1
+Paruh Baya,Rendah,Ya,Baik,1
+Tua,Sedang,Tidak,Buruk,0
+Tua,Tinggi,Ya,Baik,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Muda,Tinggi,Ya,Buruk,1
+Paruh Baya,Sedang,Ya,Baik,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Tua,Tinggi,Tidak,Baik,1
+Muda,Sedang,Ya,Baik,1
+Tua,Tinggi,Ya,Buruk,0
+Paruh Baya,Rendah,Ya,Baik,1
+Muda,Tinggi,Tidak,Baik,1
+Tua,Tinggi,Ya,Baik,1
+Paruh Baya,Rendah,Ya,Baik,1
+Muda,Rendah,Ya,Baik,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Tua,Sedang,Ya,Baik,1
+Muda,Sedang,Ya,Buruk,1
+Tua,Rendah,Ya,Buruk,0
+Muda,Tinggi,Ya,Baik,1
+Tua,Sedang,Ya,Baik,0
+Tua,Rendah,Tidak,Baik,0
+Muda,Rendah,Ya,Baik,1
+Muda,Sedang,Tidak,Baik,0
+Tua,Sedang,Tidak,Baik,1
+Tua,Tinggi,Ya,Buruk,0
+Tua,Tinggi,Ya,Buruk,0
+Tua,Sedang,Tidak,Buruk,0
+Paruh Baya,Tinggi,Ya,Baik,1
+Muda,Sedang,Ya,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Muda,Sedang,Ya,Baik,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Tua,Tinggi,Ya,Buruk,0
+Tua,Tinggi,Tidak,Buruk,0
+Tua,Sedang,Ya,Baik,1
+Tua,Sedang,Tidak,Baik,0
+Muda,Rendah,Ya,Buruk,1
+Muda,Rendah,Tidak,Baik,0
+Muda,Rendah,Ya,Baik,1
+Tua,Tinggi,Tidak,Baik,0
+Paruh Baya,Rendah,Tidak,Buruk,1
+Tua,Rendah,Tidak,Baik,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Paruh Baya,Rendah,Tidak,Buruk,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Paruh Baya,Rendah,Tidak,Buruk,1
+Tua,Tinggi,Tidak,Baik,1
+Paruh Baya,Rendah,Ya,Baik,1
+Paruh Baya,Rendah,Ya,Baik,1
+Muda,Tinggi,Ya,Buruk,1
+Tua,Rendah,Tidak,Buruk,1
+Muda,Rendah,Ya,Buruk,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Paruh Baya,Rendah,Tidak,Buruk,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Muda,Sedang,Ya,Buruk,1
+Tua,Sedang,Ya,Buruk,0
+Muda,Tinggi,Ya,Buruk,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Muda,Rendah,Tidak,Buruk,1
+Tua,Tinggi,Tidak,Baik,1
+Tua,Rendah,Ya,Buruk,1
+Muda,Rendah,Tidak,Buruk,1
+Paruh Baya,Rendah,Ya,Baik,1
+Muda,Tinggi,Tidak,Buruk,0
+Paruh Baya,Sedang,Tidak,Baik,1
+Muda,Rendah,Tidak,Buruk,1
+Tua,Sedang,Ya,Buruk,0
+Tua,Sedang,Ya,Buruk,1
+Muda,Tinggi,Tidak,Buruk,0
+Tua,Rendah,Ya,Buruk,1
+Tua,Tinggi,Ya,Baik,0
+Tua,Sedang,Ya,Buruk,1
+Tua,Tinggi,Ya,Baik,0
+Tua,Rendah,Ya,Buruk,1
+Tua,Sedang,Tidak,Buruk,0
+Muda,Tinggi,Ya,Buruk,1
+Tua,Tinggi,Tidak,Baik,0
+Tua,Sedang,Tidak,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Sedang,Ya,Baik,0
+Paruh Baya,Rendah,Ya,Baik,1
+Paruh Baya,Tinggi,Tidak,Baik,1
+Muda,Rendah,Tidak,Buruk,1
+Muda,Tinggi,Tidak,Buruk,0
+Tua,Rendah,Tidak,Buruk,1
+Muda,Sedang,Ya,Buruk,1
+Tua,Rendah,Tidak,Baik,0
+Muda,Sedang,Tidak,Buruk,0
+Tua,Sedang,Tidak,Baik,0
+Paruh Baya,Tinggi,Ya,Baik,1
+Paruh Baya,Rendah,Ya,Baik,1
+Muda,Rendah,Tidak,Baik,0
+Muda,Sedang,Ya,Buruk,1
+Muda,Sedang,Tidak,Baik,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Muda,Sedang,Ya,Baik,1
+Tua,Tinggi,Ya,Buruk,0
+Tua,Sedang,Ya,Baik,0
+Muda,Tinggi,Ya,Baik,1
+Tua,Tinggi,Ya,Baik,1
+Tua,Sedang,Ya,Baik,0
+Paruh Baya,Rendah,Tidak,Buruk,1
+Tua,Rendah,Tidak,Buruk,0
+Muda,Tinggi,Ya,Buruk,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Tua,Rendah,Tidak,Buruk,0
+Muda,Tinggi,Tidak,Buruk,0
+Muda,Rendah,Ya,Buruk,1
+Paruh Baya,Rendah,Tidak,Baik,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Muda,Rendah,Ya,Baik,1
+Muda,Sedang,Tidak,Baik,1
+Muda,Rendah,Ya,Buruk,1
+Muda,Tinggi,Tidak,Baik,0
+Paruh Baya,Tinggi,Tidak,Baik,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Tua,Tinggi,Ya,Baik,1
+Tua,Rendah,Ya,Buruk,1
+Muda,Rendah,Tidak,Buruk,1
+Tua,Rendah,Ya,Baik,0
+Muda,Sedang,Ya,Buruk,1
+Paruh Baya,Rendah,Tidak,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Rendah,Ya,Buruk,0
+Muda,Tinggi,Tidak,Buruk,0
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Muda,Tinggi,Tidak,Baik,0
+Paruh Baya,Rendah,Tidak,Baik,1
+Muda,Sedang,Tidak,Buruk,0
+Muda,Sedang,Tidak,Buruk,1
+Muda,Sedang,Ya,Baik,1
+Muda,Rendah,Ya,Baik,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Tua,Rendah,Tidak,Baik,1
+Muda,Rendah,Tidak,Buruk,1
+Tua,Rendah,Ya,Buruk,0
+Tua,Tinggi,Ya,Baik,0
+Paruh Baya,Sedang,Tidak,Buruk,1
+Tua,Tinggi,Tidak,Buruk,0
+Paruh Baya,Rendah,Tidak,Baik,1
+Muda,Sedang,Ya,Baik,1
+Paruh Baya,Tinggi,Ya,Buruk,0
+Paruh Baya,Rendah,Ya,Buruk,1
+Muda,Rendah,Ya,Buruk,1
+Tua,Sedang,Tidak,Buruk,0
+Muda,Rendah,Tidak,Buruk,0
+Tua,Sedang,Tidak,Baik,1
+Paruh Baya,Tinggi,Ya,Buruk,0
+Tua,Rendah,Ya,Buruk,1
+Tua,Tinggi,Ya,Baik,0
+Paruh Baya,Sedang,Ya,Buruk,1
+Muda,Rendah,Ya,Buruk,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Muda,Rendah,Tidak,Buruk,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Muda,Rendah,Tidak,Baik,0
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Paruh Baya,Sedang,Ya,Baik,1
+Muda,Sedang,Ya,Baik,1
+Muda,Tinggi,Tidak,Buruk,0
+Muda,Tinggi,Tidak,Baik,0
+Muda,Rendah,Ya,Baik,1
+Tua,Tinggi,Tidak,Baik,0
+Muda,Tinggi,Ya,Baik,1
+Paruh Baya,Sedang,Ya,Baik,1
+Paruh Baya,Tinggi,Tidak,Baik,1
+Tua,Tinggi,Ya,Buruk,0
+Tua,Sedang,Ya,Baik,1
+Tua,Tinggi,Tidak,Baik,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Tua,Tinggi,Ya,Buruk,0
+Tua,Rendah,Tidak,Baik,0
+Paruh Baya,Tinggi,Tidak,Baik,1
+Paruh Baya,Rendah,Tidak,Baik,1
+Muda,Sedang,Tidak,Buruk,0
+Paruh Baya,Sedang,Ya,Baik,1
+Muda,Tinggi,Ya,Buruk,1
+Muda,Tinggi,Ya,Baik,1
+Tua,Sedang,Ya,Buruk,0
+Paruh Baya,Tinggi,Ya,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Rendah,Ya,Buruk,0
+Paruh Baya,Rendah,Ya,Baik,1
+Muda,Sedang,Tidak,Baik,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Muda,Sedang,Ya,Buruk,1
+Paruh Baya,Rendah,Tidak,Baik,1
+Tua,Tinggi,Ya,Baik,0
+Tua,Tinggi,Ya,Buruk,0
+Paruh Baya,Rendah,Tidak,Baik,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Muda,Rendah,Tidak,Buruk,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Tua,Rendah,Tidak,Baik,0
+Paruh Baya,Rendah,Tidak,Baik,1
+Tua,Rendah,Ya,Buruk,0
+Muda,Sedang,Ya,Baik,1
+Paruh Baya,Rendah,Ya,Baik,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Paruh Baya,Rendah,Ya,Buruk,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Muda,Sedang,Tidak,Baik,1
+Paruh Baya,Tinggi,Tidak,Baik,1
+Muda,Rendah,Tidak,Baik,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Tua,Sedang,Ya,Baik,1
+Tua,Sedang,Ya,Buruk,1
+Muda,Tinggi,Ya,Buruk,1
+Tua,Tinggi,Tidak,Buruk,0
+Paruh Baya,Tinggi,Tidak,Baik,1
+Tua,Tinggi,Tidak,Baik,1
+Muda,Sedang,Ya,Baik,1
+Muda,Rendah,Ya,Baik,1
+Paruh Baya,Tinggi,Ya,Buruk,0
+Paruh Baya,Tinggi,Tidak,Baik,1
+Muda,Tinggi,Ya,Baik,1
+Paruh Baya,Sedang,Ya,Baik,1
+Muda,Sedang,Ya,Baik,1
+Tua,Sedang,Tidak,Buruk,0
+Muda,Tinggi,Ya,Buruk,1
+Muda,Sedang,Tidak,Buruk,0
+Paruh Baya,Sedang,Tidak,Buruk,1
+Muda,Sedang,Tidak,Baik,0
+Paruh Baya,Tinggi,Tidak,Baik,1
+Muda,Sedang,Ya,Buruk,1
+Tua,Tinggi,Ya,Baik,0
+Paruh Baya,Sedang,Tidak,Buruk,1
+Muda,Sedang,Tidak,Baik,0
+Paruh Baya,Sedang,Ya,Buruk,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Paruh Baya,Sedang,Ya,Baik,1
+Muda,Sedang,Ya,Baik,1
+Muda,Tinggi,Tidak,Buruk,0
+Muda,Rendah,Ya,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Tinggi,Ya,Baik,0
+Muda,Tinggi,Tidak,Buruk,0
+Tua,Tinggi,Ya,Buruk,0
+Paruh Baya,Sedang,Ya,Buruk,1
+Muda,Tinggi,Ya,Buruk,1
+Tua,Tinggi,Ya,Baik,1
+Muda,Rendah,Ya,Buruk,1
+Paruh Baya,Sedang,Ya,Baik,1
+Paruh Baya,Rendah,Ya,Baik,1
+Tua,Rendah,Tidak,Buruk,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Muda,Tinggi,Ya,Baik,1
+Tua,Tinggi,Ya,Buruk,0
+Muda,Sedang,Tidak,Buruk,0
+Muda,Sedang,Tidak,Baik,1
+Muda,Tinggi,Tidak,Baik,0
+Paruh Baya,Tinggi,Ya,Buruk,0
+Paruh Baya,Sedang,Ya,Baik,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Muda,Sedang,Ya,Baik,1
+Muda,Rendah,Ya,Buruk,1
+Tua,Sedang,Ya,Baik,0
+Muda,Rendah,Tidak,Baik,1
+Paruh Baya,Tinggi,Tidak,Baik,1
+Muda,Tinggi,Ya,Buruk,1
+Muda,Rendah,Tidak,Baik,0
+Muda,Sedang,Ya,Baik,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Paruh Baya,Sedang,Ya,Baik,1
+Tua,Tinggi,Ya,Baik,0
+Paruh Baya,Rendah,Tidak,Baik,1
+Tua,Rendah,Tidak,Buruk,1
+Muda,Rendah,Ya,Baik,1
+Tua,Rendah,Tidak,Baik,0
+Tua,Tinggi,Tidak,Buruk,0
+Paruh Baya,Rendah,Ya,Buruk,1
+Muda,Tinggi,Ya,Baik,1
+Tua,Rendah,Ya,Buruk,0
+Muda,Rendah,Tidak,Baik,0
+Muda,Rendah,Ya,Baik,1
+Muda,Sedang,Tidak,Baik,1
+Muda,Rendah,Tidak,Buruk,1
+Muda,Tinggi,Ya,Buruk,1
+Muda,Rendah,Tidak,Baik,1
+Muda,Sedang,Ya,Baik,1
+Muda,Rendah,Tidak,Baik,1
+Tua,Sedang,Tidak,Buruk,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Muda,Sedang,Tidak,Buruk,1
+Muda,Sedang,Ya,Buruk,1
+Paruh Baya,Tinggi,Ya,Buruk,0
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Rendah,Ya,Baik,0
+Paruh Baya,Rendah,Ya,Baik,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Tua,Sedang,Ya,Buruk,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Tua,Tinggi,Tidak,Baik,1
+Muda,Tinggi,Ya,Baik,1
+Muda,Tinggi,Tidak,Buruk,0
+Paruh Baya,Tinggi,Tidak,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Muda,Tinggi,Ya,Baik,1
+Tua,Rendah,Tidak,Buruk,0
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Sedang,Tidak,Baik,1
+Muda,Rendah,Tidak,Buruk,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Tua,Sedang,Ya,Buruk,0
+Muda,Rendah,Ya,Buruk,1
+Muda,Tinggi,Ya,Buruk,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Muda,Sedang,Tidak,Baik,1
+Tua,Sedang,Tidak,Buruk,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Tua,Tinggi,Tidak,Baik,0
+Paruh Baya,Tinggi,Ya,Baik,1
+Paruh Baya,Tinggi,Ya,Baik,1
+Tua,Tinggi,Tidak,Baik,1
+Muda,Sedang,Ya,Buruk,1
+Tua,Tinggi,Ya,Buruk,0
+Tua,Tinggi,Ya,Baik,1
+Tua,Rendah,Ya,Baik,1
+Tua,Rendah,Tidak,Buruk,0
+Muda,Rendah,Ya,Buruk,1
+Tua,Sedang,Tidak,Baik,0
+Tua,Sedang,Ya,Baik,0
+Muda,Rendah,Ya,Baik,1
+Muda,Rendah,Ya,Baik,1
+Tua,Rendah,Tidak,Buruk,0
+Muda,Tinggi,Tidak,Baik,1
+Muda,Tinggi,Tidak,Buruk,0
+Tua,Sedang,Ya,Baik,0
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Muda,Rendah,Ya,Buruk,1
+Paruh Baya,Tinggi,Tidak,Baik,1
+Tua,Tinggi,Ya,Buruk,0
+Muda,Rendah,Ya,Baik,1
+Tua,Sedang,Ya,Buruk,0
+Tua,Rendah,Tidak,Baik,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Muda,Rendah,Ya,Buruk,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Rendah,Ya,Buruk,1
+Paruh Baya,Tinggi,Ya,Buruk,0
+Paruh Baya,Sedang,Tidak,Buruk,1
+Tua,Tinggi,Tidak,Baik,1
+Muda,Sedang,Tidak,Buruk,1
+Muda,Tinggi,Ya,Buruk,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Paruh Baya,Tinggi,Ya,Buruk,0
+Tua,Tinggi,Ya,Baik,0
+Muda,Sedang,Tidak,Buruk,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Tua,Tinggi,Tidak,Buruk,0
+Muda,Tinggi,Ya,Baik,1
+Paruh Baya,Tinggi,Ya,Buruk,0
+Paruh Baya,Sedang,Tidak,Buruk,1
+Tua,Sedang,Ya,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Sedang,Tidak,Baik,0
+Muda,Tinggi,Tidak,Buruk,0
+Muda,Tinggi,Tidak,Baik,0
+Muda,Tinggi,Tidak,Baik,1
+Paruh Baya,Sedang,Ya,Baik,1
+Tua,Sedang,Tidak,Baik,1
+Paruh Baya,Tinggi,Ya,Buruk,0
+Paruh Baya,Tinggi,Tidak,Baik,1
+Muda,Sedang,Ya,Buruk,1
+Paruh Baya,Rendah,Ya,Baik,1
+Tua,Tinggi,Tidak,Baik,0
+Paruh Baya,Tinggi,Tidak,Baik,1
+Muda,Sedang,Ya,Baik,1
+Tua,Tinggi,Ya,Baik,0
+Tua,Tinggi,Ya,Buruk,0
+Tua,Sedang,Ya,Baik,0
+Tua,Rendah,Ya,Buruk,0
+Tua,Tinggi,Tidak,Buruk,0
+Muda,Sedang,Ya,Buruk,1
+Tua,Rendah,Tidak,Buruk,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Paruh Baya,Tinggi,Ya,Buruk,0
+Muda,Rendah,Ya,Baik,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Tua,Tinggi,Tidak,Buruk,0
+Paruh Baya,Rendah,Tidak,Buruk,1
+Tua,Rendah,Tidak,Baik,0
+Paruh Baya,Rendah,Ya,Buruk,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Paruh Baya,Tinggi,Tidak,Baik,1
+Paruh Baya,Tinggi,Ya,Buruk,0
+Paruh Baya,Tinggi,Ya,Buruk,0
+Paruh Baya,Tinggi,Ya,Buruk,0
+Tua,Rendah,Ya,Baik,0
+Tua,Rendah,Ya,Baik,1
+Tua,Rendah,Ya,Buruk,1
+Tua,Rendah,Tidak,Baik,1
+Muda,Sedang,Ya,Buruk,1
+Paruh Baya,Tinggi,Ya,Baik,1
+Tua,Rendah,Ya,Buruk,1
+Muda,Rendah,Ya,Baik,1
+Muda,Tinggi,Ya,Baik,1
+Tua,Rendah,Ya,Buruk,0
+Muda,Sedang,Ya,Baik,1
+Tua,Sedang,Ya,Baik,1
+Muda,Tinggi,Ya,Baik,1
+Tua,Tinggi,Ya,Baik,0
+Tua,Sedang,Tidak,Buruk,0
+Tua,Tinggi,Ya,Baik,0
+Muda,Rendah,Ya,Baik,1
+Muda,Sedang,Tidak,Buruk,0
+Paruh Baya,Sedang,Tidak,Baik,1
+Tua,Sedang,Ya,Buruk,0
+Muda,Tinggi,Tidak,Buruk,0
+Tua,Tinggi,Tidak,Baik,0
+Muda,Rendah,Ya,Buruk,1
+Muda,Tinggi,Tidak,Baik,1
+Tua,Sedang,Ya,Buruk,1
+Tua,Sedang,Tidak,Baik,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Paruh Baya,Rendah,Tidak,Baik,1
+Muda,Tinggi,Ya,Buruk,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Muda,Tinggi,Ya,Buruk,1
+Paruh Baya,Rendah,Tidak,Baik,1
+Paruh Baya,Rendah,Ya,Baik,1
+Tua,Rendah,Tidak,Baik,0
+Paruh Baya,Tinggi,Tidak,Baik,1
+Tua,Rendah,Ya,Baik,1
+Muda,Sedang,Ya,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Rendah,Ya,Buruk,1
+Tua,Tinggi,Tidak,Baik,1
+Muda,Tinggi,Ya,Baik,1
+Paruh Baya,Sedang,Ya,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Muda,Tinggi,Ya,Baik,1
+Paruh Baya,Rendah,Tidak,Baik,1
+Tua,Rendah,Tidak,Baik,0
+Paruh Baya,Sedang,Ya,Buruk,1
+Tua,Sedang,Ya,Baik,0
+Muda,Rendah,Tidak,Buruk,1
+Muda,Sedang,Tidak,Baik,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Muda,Sedang,Tidak,Baik,0
+Muda,Tinggi,Ya,Buruk,1
+Muda,Rendah,Tidak,Buruk,0
+Tua,Tinggi,Tidak,Baik,0
+Tua,Rendah,Ya,Buruk,0
+Paruh Baya,Tinggi,Ya,Baik,1
+Paruh Baya,Sedang,Ya,Baik,1
+Paruh Baya,Tinggi,Ya,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Muda,Tinggi,Tidak,Buruk,0
+Tua,Sedang,Ya,Baik,1
+Tua,Rendah,Tidak,Baik,1
+Muda,Rendah,Tidak,Baik,0
+Paruh Baya,Tinggi,Ya,Baik,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Muda,Tinggi,Tidak,Baik,1
+Muda,Sedang,Tidak,Buruk,0
+Muda,Rendah,Ya,Baik,1
+Muda,Rendah,Ya,Baik,1
+Paruh Baya,Tinggi,Ya,Buruk,0
+Tua,Tinggi,Tidak,Buruk,0
+Tua,Tinggi,Tidak,Buruk,0
+Muda,Sedang,Tidak,Baik,1
+Tua,Tinggi,Tidak,Baik,0
+Muda,Tinggi,Tidak,Baik,1
+Tua,Sedang,Ya,Baik,1
+Tua,Rendah,Ya,Baik,0
+Muda,Tinggi,Ya,Baik,1
+Tua,Sedang,Ya,Baik,0
+Tua,Tinggi,Ya,Baik,0
+Tua,Rendah,Tidak,Buruk,0
+Tua,Rendah,Tidak,Buruk,0
+Tua,Sedang,Tidak,Baik,0
+Muda,Tinggi,Tidak,Baik,1
+Muda,Rendah,Ya,Buruk,1
+Muda,Tinggi,Ya,Buruk,1
+Paruh Baya,Sedang,Ya,Baik,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Tua,Sedang,Ya,Baik,0
+Paruh Baya,Tinggi,Ya,Buruk,0
+Muda,Rendah,Ya,Buruk,1
+Muda,Sedang,Ya,Baik,1
+Tua,Tinggi,Tidak,Baik,1
+Tua,Tinggi,Tidak,Baik,1
+Muda,Sedang,Tidak,Buruk,0
+Tua,Sedang,Tidak,Baik,0
+Tua,Tinggi,Ya,Buruk,0
+Muda,Sedang,Tidak,Buruk,1
+Tua,Tinggi,Tidak,Buruk,0
+Muda,Tinggi,Tidak,Buruk,0
+Tua,Rendah,Ya,Baik,0
+Tua,Rendah,Ya,Buruk,0
+Paruh Baya,Sedang,Tidak,Baik,1
+Paruh Baya,Sedang,Ya,Baik,1
+Paruh Baya,Tinggi,Tidak,Baik,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Paruh Baya,Tinggi,Ya,Baik,1
+Tua,Rendah,Tidak,Baik,0
+Muda,Tinggi,Tidak,Baik,0
+Tua,Tinggi,Ya,Buruk,0
+Tua,Rendah,Tidak,Buruk,1
+Tua,Tinggi,Tidak,Buruk,0
+Paruh Baya,Sedang,Ya,Buruk,1
+Tua,Tinggi,Tidak,Buruk,0
+Tua,Rendah,Ya,Baik,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Muda,Sedang,Tidak,Buruk,0
+Paruh Baya,Tinggi,Ya,Buruk,0
+Paruh Baya,Tinggi,Tidak,Baik,1
+Muda,Tinggi,Ya,Baik,1
+Tua,Sedang,Tidak,Buruk,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Muda,Rendah,Ya,Buruk,1
+Muda,Rendah,Tidak,Buruk,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Tua,Sedang,Tidak,Buruk,1
+Muda,Tinggi,Ya,Baik,1
+Tua,Sedang,Ya,Buruk,0
+Muda,Sedang,Ya,Buruk,1
+Paruh Baya,Tinggi,Ya,Baik,1
+Muda,Rendah,Ya,Buruk,1
+Tua,Rendah,Ya,Baik,0
+Muda,Tinggi,Ya,Buruk,1
+Tua,Sedang,Tidak,Buruk,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Rendah,Ya,Buruk,0
+Paruh Baya,Sedang,Ya,Buruk,1
+Tua,Rendah,Tidak,Buruk,0
+Tua,Tinggi,Tidak,Baik,0
+Paruh Baya,Sedang,Tidak,Buruk,1
+Paruh Baya,Tinggi,Ya,Baik,1
+Muda,Rendah,Ya,Buruk,1
+Tua,Tinggi,Tidak,Baik,0
+Muda,Sedang,Ya,Baik,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Tua,Sedang,Tidak,Buruk,1
+Muda,Sedang,Ya,Baik,1
+Tua,Sedang,Tidak,Baik,0
+Muda,Rendah,Tidak,Buruk,1
+Paruh Baya,Tinggi,Tidak,Baik,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Muda,Tinggi,Ya,Baik,1
+Muda,Tinggi,Tidak,Baik,1
+Muda,Tinggi,Tidak,Baik,0
+Tua,Sedang,Ya,Baik,0
+Muda,Sedang,Tidak,Buruk,0
+Tua,Sedang,Tidak,Baik,0
+Tua,Rendah,Tidak,Baik,1
+Tua,Tinggi,Tidak,Buruk,0
+Paruh Baya,Tinggi,Tidak,Baik,1
+Tua,Sedang,Tidak,Buruk,1
+Tua,Tinggi,Ya,Baik,0
+Tua,Sedang,Ya,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Muda,Sedang,Ya,Baik,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Tua,Rendah,Ya,Buruk,0
+Tua,Sedang,Tidak,Buruk,0
+Tua,Tinggi,Tidak,Buruk,0
+Paruh Baya,Sedang,Tidak,Baik,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Muda,Sedang,Tidak,Baik,1
+Muda,Sedang,Tidak,Baik,1
+Tua,Rendah,Tidak,Baik,0
+Paruh Baya,Sedang,Ya,Buruk,1
+Muda,Sedang,Ya,Buruk,1
+Tua,Rendah,Tidak,Baik,0
+Tua,Sedang,Ya,Buruk,0
+Paruh Baya,Tinggi,Tidak,Baik,1
+Tua,Rendah,Ya,Buruk,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Paruh Baya,Sedang,Ya,Baik,1
+Tua,Rendah,Ya,Buruk,1
+Muda,Sedang,Ya,Buruk,1
+Muda,Tinggi,Ya,Buruk,1
+Tua,Tinggi,Ya,Buruk,0
+Tua,Sedang,Ya,Buruk,1
+Muda,Tinggi,Tidak,Buruk,0
+Muda,Tinggi,Ya,Baik,1
+Paruh Baya,Tinggi,Ya,Baik,1
+Muda,Tinggi,Tidak,Buruk,0
+Muda,Sedang,Ya,Baik,1
+Tua,Rendah,Ya,Buruk,0
+Paruh Baya,Rendah,Ya,Buruk,1
+Muda,Sedang,Ya,Baik,1
+Muda,Sedang,Ya,Baik,1
+Paruh Baya,Tinggi,Ya,Baik,1
+Tua,Tinggi,Tidak,Baik,1
+Muda,Tinggi,Tidak,Buruk,0
+Muda,Sedang,Ya,Buruk,1
+Muda,Sedang,Ya,Buruk,1
+Muda,Tinggi,Ya,Buruk,1
+Muda,Rendah,Ya,Baik,1
+Paruh Baya,Sedang,Ya,Baik,1
+Muda,Tinggi,Ya,Baik,1
+Tua,Tinggi,Ya,Buruk,0
+Tua,Rendah,Tidak,Baik,0
+Muda,Sedang,Ya,Baik,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Muda,Tinggi,Tidak,Buruk,0
+Tua,Rendah,Ya,Buruk,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Tua,Tinggi,Tidak,Baik,1
+Tua,Tinggi,Tidak,Buruk,0
+Paruh Baya,Tinggi,Tidak,Baik,1
+Tua,Tinggi,Tidak,Baik,1
+Tua,Rendah,Ya,Buruk,1
+Paruh Baya,Rendah,Tidak,Baik,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Paruh Baya,Sedang,Tidak,Baik,1
+Muda,Sedang,Tidak,Buruk,1
+Paruh Baya,Tinggi,Ya,Buruk,0
+Muda,Rendah,Tidak,Baik,0
+Tua,Rendah,Ya,Buruk,1
+Tua,Tinggi,Tidak,Baik,1
+Muda,Rendah,Tidak,Buruk,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Muda,Tinggi,Tidak,Buruk,0
+Muda,Tinggi,Tidak,Baik,0
+Paruh Baya,Rendah,Tidak,Buruk,1
+Muda,Tinggi,Tidak,Baik,1
+Tua,Tinggi,Tidak,Buruk,0
+Paruh Baya,Tinggi,Ya,Buruk,0
+Tua,Rendah,Ya,Baik,1
+Tua,Sedang,Ya,Buruk,1
+Muda,Rendah,Ya,Baik,1
+Muda,Tinggi,Ya,Baik,1
+Muda,Rendah,Ya,Buruk,1
+Tua,Sedang,Ya,Baik,0
+Tua,Tinggi,Tidak,Baik,1
+Tua,Rendah,Ya,Buruk,0
+Paruh Baya,Tinggi,Ya,Buruk,0
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Paruh Baya,Rendah,Ya,Buruk,1
+Paruh Baya,Rendah,Tidak,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Muda,Sedang,Tidak,Buruk,1
+Tua,Sedang,Tidak,Buruk,0
+Tua,Sedang,Tidak,Buruk,0
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Sedang,Tidak,Baik,1
+Tua,Sedang,Tidak,Buruk,1
+Tua,Sedang,Ya,Buruk,1
+Paruh Baya,Rendah,Ya,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Sedang,Tidak,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Tinggi,Tidak,Buruk,0
+Muda,Rendah,Ya,Buruk,1
+Muda,Rendah,Ya,Buruk,1
+Tua,Tinggi,Ya,Baik,1
+Muda,Tinggi,Ya,Baik,1
+Muda,Sedang,Ya,Buruk,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Tua,Tinggi,Ya,Baik,0
+Paruh Baya,Sedang,Ya,Baik,1
+Tua,Sedang,Tidak,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Rendah,Tidak,Buruk,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Tua,Tinggi,Ya,Buruk,0
+Paruh Baya,Rendah,Ya,Buruk,1
+Muda,Rendah,Tidak,Buruk,1
+Muda,Rendah,Tidak,Baik,0
+Muda,Rendah,Ya,Baik,1
+Tua,Sedang,Tidak,Baik,0
+Tua,Tinggi,Tidak,Buruk,0
+Paruh Baya,Rendah,Ya,Buruk,1
+Paruh Baya,Rendah,Tidak,Baik,1
+Tua,Rendah,Tidak,Buruk,0
+Muda,Tinggi,Tidak,Buruk,0
+Muda,Sedang,Tidak,Baik,1
+Muda,Rendah,Ya,Buruk,1
+Paruh Baya,Rendah,Tidak,Baik,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Tua,Tinggi,Tidak,Baik,0
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Muda,Tinggi,Ya,Buruk,1
+Tua,Sedang,Tidak,Buruk,0
+Tua,Sedang,Ya,Buruk,0
+Muda,Rendah,Ya,Baik,1
+Tua,Tinggi,Tidak,Baik,0
+Muda,Tinggi,Ya,Baik,1
+Tua,Sedang,Tidak,Baik,1
+Muda,Sedang,Tidak,Buruk,1
+Muda,Sedang,Ya,Baik,1
+Paruh Baya,Tinggi,Ya,Baik,1
+Muda,Sedang,Tidak,Baik,0
+Muda,Tinggi,Ya,Baik,1
+Tua,Rendah,Ya,Baik,0
+Paruh Baya,Rendah,Tidak,Buruk,1
+Tua,Sedang,Tidak,Buruk,1
+Paruh Baya,Tinggi,Tidak,Baik,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Tua,Tinggi,Tidak,Buruk,0
+Muda,Tinggi,Ya,Baik,1
+Muda,Sedang,Tidak,Buruk,1
+Tua,Sedang,Ya,Buruk,1
+Tua,Tinggi,Tidak,Buruk,0
+Tua,Rendah,Ya,Baik,1
+Muda,Tinggi,Tidak,Baik,1
+Muda,Tinggi,Ya,Buruk,1
+Muda,Sedang,Tidak,Buruk,0
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Tua,Rendah,Ya,Baik,0
+Tua,Rendah,Tidak,Buruk,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Tua,Rendah,Tidak,Buruk,1
+Tua,Sedang,Ya,Baik,1
+Tua,Tinggi,Tidak,Buruk,0
+Muda,Rendah,Tidak,Buruk,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Paruh Baya,Tinggi,Tidak,Baik,1
+Paruh Baya,Sedang,Ya,Baik,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Tua,Rendah,Ya,Buruk,1
+Muda,Sedang,Tidak,Baik,0
+Tua,Sedang,Ya,Buruk,0
+Muda,Tinggi,Ya,Buruk,1
+Muda,Tinggi,Ya,Baik,1
+Tua,Rendah,Tidak,Buruk,1
+Tua,Rendah,Ya,Buruk,1
+Muda,Tinggi,Tidak,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Tinggi,Tidak,Buruk,0
+Muda,Tinggi,Ya,Baik,1
+Tua,Rendah,Tidak,Baik,0
+Tua,Tinggi,Ya,Buruk,0
+Tua,Tinggi,Ya,Baik,0
+Tua,Tinggi,Ya,Buruk,0
+Muda,Tinggi,Ya,Baik,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Paruh Baya,Rendah,Tidak,Buruk,1
+Paruh Baya,Rendah,Tidak,Baik,1
+Muda,Sedang,Ya,Buruk,1
+Muda,Tinggi,Tidak,Buruk,0
+Tua,Tinggi,Tidak,Baik,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Muda,Sedang,Ya,Buruk,1
+Muda,Rendah,Tidak,Baik,0
+Muda,Sedang,Ya,Baik,1
+Muda,Sedang,Ya,Baik,1
+Tua,Sedang,Tidak,Baik,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Tua,Rendah,Tidak,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Tua,Tinggi,Tidak,Baik,1
+Muda,Tinggi,Tidak,Baik,1
+Muda,Tinggi,Ya,Buruk,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Paruh Baya,Tinggi,Tidak,Baik,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Muda,Tinggi,Ya,Buruk,1
+Muda,Rendah,Ya,Buruk,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Muda,Tinggi,Ya,Baik,1
+Muda,Tinggi,Tidak,Baik,1
+Muda,Rendah,Ya,Baik,1
+Tua,Sedang,Tidak,Buruk,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Tua,Sedang,Tidak,Buruk,1
+Tua,Tinggi,Tidak,Buruk,0
+Muda,Tinggi,Tidak,Buruk,0
+Paruh Baya,Sedang,Ya,Buruk,1
+Muda,Rendah,Tidak,Buruk,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Muda,Rendah,Tidak,Buruk,0
+Paruh Baya,Sedang,Ya,Buruk,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Tua,Rendah,Ya,Buruk,1
+Muda,Sedang,Ya,Buruk,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Muda,Tinggi,Ya,Buruk,1
+Paruh Baya,Tinggi,Tidak,Baik,1
+Tua,Tinggi,Ya,Buruk,0
+Paruh Baya,Tinggi,Tidak,Baik,1
+Muda,Rendah,Ya,Baik,1
+Muda,Tinggi,Tidak,Baik,0
+Paruh Baya,Tinggi,Ya,Baik,1
+Muda,Rendah,Ya,Buruk,1
+Muda,Sedang,Tidak,Baik,1
+Muda,Sedang,Ya,Baik,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Muda,Tinggi,Tidak,Buruk,0
+Paruh Baya,Rendah,Tidak,Baik,1
+Muda,Rendah,Tidak,Buruk,0
+Muda,Sedang,Tidak,Baik,0
+Paruh Baya,Rendah,Ya,Buruk,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Paruh Baya,Sedang,Tidak,Baik,1
+Muda,Rendah,Ya,Baik,1
+Tua,Tinggi,Ya,Buruk,0
+Tua,Rendah,Ya,Baik,1
+Muda,Tinggi,Tidak,Baik,0
+Paruh Baya,Sedang,Ya,Buruk,1
+Tua,Rendah,Ya,Buruk,0
+Paruh Baya,Sedang,Tidak,Baik,1
+Paruh Baya,Rendah,Ya,Baik,1
+Tua,Tinggi,Tidak,Buruk,0
+Tua,Tinggi,Tidak,Baik,1
+Paruh Baya,Tinggi,Tidak,Baik,1
+Paruh Baya,Tinggi,Tidak,Baik,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Rendah,Ya,Baik,0
+Tua,Tinggi,Tidak,Buruk,0
+Paruh Baya,Sedang,Ya,Buruk,1
+Tua,Rendah,Tidak,Baik,0
+Muda,Tinggi,Tidak,Baik,0
+Paruh Baya,Rendah,Ya,Baik,1
+Paruh Baya,Rendah,Ya,Baik,1
+Muda,Rendah,Tidak,Baik,1
+Paruh Baya,Tinggi,Ya,Buruk,0
+Tua,Tinggi,Ya,Baik,0
+Paruh Baya,Sedang,Ya,Buruk,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Paruh Baya,Sedang,Ya,Buruk,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Tua,Tinggi,Tidak,Baik,1
+Paruh Baya,Tinggi,Tidak,Baik,1
+Muda,Rendah,Tidak,Baik,0
+Paruh Baya,Sedang,Tidak,Buruk,1
+Tua,Rendah,Tidak,Buruk,1
+Muda,Sedang,Tidak,Baik,1
+Paruh Baya,Tinggi,Tidak,Baik,1
+Paruh Baya,Rendah,Ya,Baik,1
+Paruh Baya,Tinggi,Ya,Baik,1
+Paruh Baya,Rendah,Ya,Baik,1
+Paruh Baya,Sedang,Ya,Baik,1
+Tua,Tinggi,Ya,Buruk,0
+Muda,Sedang,Tidak,Buruk,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Tua,Sedang,Tidak,Buruk,0
+Tua,Sedang,Ya,Buruk,1
+Paruh Baya,Rendah,Tidak,Baik,1
+Muda,Tinggi,Tidak,Baik,0
+Tua,Rendah,Tidak,Buruk,0
+Muda,Rendah,Ya,Baik,1
+Muda,Rendah,Ya,Baik,1
+Muda,Tinggi,Tidak,Buruk,0
+Tua,Tinggi,Tidak,Baik,1
+Tua,Rendah,Tidak,Buruk,0
+Muda,Tinggi,Ya,Baik,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Tua,Sedang,Ya,Baik,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Paruh Baya,Tinggi,Ya,Baik,1
+Muda,Rendah,Ya,Baik,1
+Paruh Baya,Rendah,Tidak,Baik,1
+Tua,Sedang,Ya,Buruk,1
+Muda,Rendah,Tidak,Buruk,1
+Muda,Rendah,Tidak,Buruk,1
+Tua,Tinggi,Ya,Buruk,0
+Tua,Sedang,Tidak,Baik,0
+Tua,Rendah,Tidak,Buruk,0
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Rendah,Ya,Buruk,0
+Muda,Rendah,Ya,Buruk,1
+Muda,Rendah,Ya,Baik,1
+Tua,Sedang,Ya,Baik,1
+Muda,Rendah,Tidak,Baik,1
+Tua,Rendah,Ya,Baik,1
+Muda,Rendah,Tidak,Baik,1
+Tua,Tinggi,Tidak,Buruk,0
+Muda,Tinggi,Ya,Baik,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Muda,Tinggi,Ya,Buruk,1
+Muda,Tinggi,Ya,Buruk,1
+Paruh Baya,Tinggi,Ya,Baik,1
+Tua,Tinggi,Ya,Buruk,0
+Tua,Sedang,Ya,Buruk,0
+Muda,Sedang,Ya,Baik,1
+Paruh Baya,Tinggi,Ya,Buruk,0
+Paruh Baya,Rendah,Tidak,Buruk,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Muda,Rendah,Ya,Baik,1
+Tua,Rendah,Tidak,Baik,1
+Paruh Baya,Rendah,Tidak,Baik,1
+Tua,Sedang,Tidak,Buruk,1
+Tua,Rendah,Tidak,Buruk,0
+Paruh Baya,Rendah,Ya,Baik,1
+Muda,Tinggi,Tidak,Baik,0
+Paruh Baya,Tinggi,Tidak,Baik,1
+Tua,Sedang,Tidak,Buruk,0
+Tua,Sedang,Tidak,Buruk,0
+Muda,Sedang,Ya,Buruk,1
+Paruh Baya,Tinggi,Ya,Buruk,0
+Tua,Rendah,Tidak,Baik,1
+Tua,Tinggi,Ya,Buruk,0
+Paruh Baya,Rendah,Tidak,Baik,1
+Tua,Tinggi,Tidak,Baik,0
+Muda,Tinggi,Ya,Buruk,1
+Muda,Tinggi,Ya,Baik,1
+Muda,Rendah,Tidak,Baik,0
+Paruh Baya,Sedang,Ya,Baik,1
+Paruh Baya,Sedang,Ya,Baik,1
+Paruh Baya,Tinggi,Ya,Baik,1
+Tua,Tinggi,Ya,Baik,0
+Muda,Rendah,Tidak,Buruk,1
+Paruh Baya,Rendah,Tidak,Baik,1
+Muda,Sedang,Tidak,Baik,0
+Tua,Tinggi,Ya,Buruk,0
+Paruh Baya,Rendah,Ya,Buruk,1
+Tua,Sedang,Tidak,Baik,0
+Paruh Baya,Tinggi,Ya,Baik,1
+Tua,Rendah,Ya,Buruk,0
+Paruh Baya,Rendah,Ya,Buruk,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Paruh Baya,Rendah,Ya,Buruk,1
+Paruh Baya,Sedang,Tidak,Buruk,1
+Paruh Baya,Rendah,Tidak,Buruk,1
+Muda,Tinggi,Tidak,Baik,0
+Paruh Baya,Rendah,Tidak,Buruk,1
+Muda,Rendah,Ya,Baik,1
+Muda,Sedang,Tidak,Baik,1
+Tua,Rendah,Ya,Baik,1
+Tua,Tinggi,Ya,Buruk,0
+Muda,Sedang,Ya,Buruk,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Tua,Tinggi,Ya,Baik,1
+Tua,Sedang,Ya,Baik,0
+Paruh Baya,Sedang,Tidak,Baik,1
+Muda,Sedang,Tidak,Baik,1
+Muda,Sedang,Tidak,Buruk,1
+Paruh Baya,Tinggi,Tidak,Baik,1
+Tua,Sedang,Tidak,Baik,0
+Muda,Rendah,Ya,Buruk,1
+Paruh Baya,Tinggi,Ya,Buruk,0
+Tua,Tinggi,Ya,Buruk,0
+Tua,Rendah,Ya,Buruk,0
+Tua,Tinggi,Ya,Baik,0
+Tua,Sedang,Ya,Buruk,0
+Paruh Baya,Tinggi,Ya,Buruk,0
+Paruh Baya,Rendah,Tidak,Buruk,1
+Muda,Tinggi,Ya,Buruk,1
+Muda,Tinggi,Ya,Baik,1
+Tua,Rendah,Ya,Baik,1
+Muda,Sedang,Tidak,Baik,0
+Tua,Sedang,Ya,Buruk,0
+Paruh Baya,Sedang,Tidak,Buruk,1
+Muda,Rendah,Tidak,Baik,0
+Paruh Baya,Rendah,Ya,Baik,1
+Muda,Sedang,Ya,Buruk,1
+Tua,Rendah,Ya,Buruk,0
+Muda,Rendah,Tidak,Baik,1
+Paruh Baya,Sedang,Ya,Buruk,1
+Tua,Tinggi,Tidak,Baik,0
+Muda,Sedang,Tidak,Baik,0
+Tua,Rendah,Tidak,Baik,0
+Tua,Tinggi,Tidak,Buruk,0
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Paruh Baya,Rendah,Tidak,Baik,1
+Muda,Sedang,Tidak,Baik,0
+Tua,Tinggi,Tidak,Buruk,0
+Muda,Tinggi,Tidak,Buruk,0
+Paruh Baya,Rendah,Ya,Buruk,1
+Paruh Baya,Tinggi,Tidak,Buruk,0
+Muda,Tinggi,Ya,Buruk,1
+Tua,Rendah,Ya,Buruk,0

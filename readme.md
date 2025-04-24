@@ -2,6 +2,12 @@
 
 Repositori ini memuat seluruh pipeline *machine learning* untuk memprediksi kelayakan kredit komputer menggunakan **Decision Tree Classifier** pada dataset `dataset_buys_comp.csv`.
 
+Nama: Muhammad Arkan Raihan
+
+NIM: 1227050085
+
+Kelas: Praktikum Pembelajaran Mesin E
+
 ---
 
 ## 1. Persiapan Lingkungan
@@ -14,8 +20,8 @@ Repositori ini memuat seluruh pipeline *machine learning* untuk memprediksi kela
    ├── data
    │   └── dataset_buys_comp.csv
    ├── notebooks
-   │   └── 01_decision_tree.ipynb
-   ├── train_decision_tree.py  <-- skrip utama training
+   │   └── klasifikasi_kelayakan_pc.ipynb
+   ├── train_decision_tree.py
    └── README.md
    ```
 
